@@ -249,8 +249,8 @@
       <wwsoundNPC>trds_chf_npc</wwsoundNPC>
       <hullPosition>0.000000 1.25437 0.000000</hullPosition>
       <hitTester>
-        <collisionModelServer>vehicles/american/A84_M48A1/collision/Chassis.model</collisionModelServer>
-        <collisionModelClient>vehicles/american/A84_M48A1/collision_client/Chassis.model</collisionModelClient>
+        <collisionModelServer>vehicles/american/A120_M48A5/collision/Chassis.model</collisionModelServer>
+        <collisionModelClient>vehicles/american/A120_M48A5/collision_client/Chassis.model</collisionModelClient>
       </hitTester>
       <topRightCarryingPoint>1.46543 1.99744</topRightCarryingPoint>
       <maxClimbAngle>	25	</maxClimbAngle>
