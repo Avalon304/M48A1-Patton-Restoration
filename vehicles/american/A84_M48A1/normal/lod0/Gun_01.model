@@ -1,0 +1,10 @@
+<gun_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.51749 -0.375278 -0.187464</min>
+    <max>0.51749 0.37393 4.06562</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/american/A84_M48A1/normal/lod0/Gun_01</nodefullVisual>
+</gun_01.model>

@@ -1,0 +1,10 @@
+<hull.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.82055 -1.12488 -3.51743</min>
+    <max>1.83148 0.708837 3.45939</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/american/A84_M48A1/crash/lod0/Hull</nodefullVisual>
+</hull.model>

@@ -1,0 +1,10 @@
+<hull.model>
+  <nodefullVisual>vehicles/american/A84_M48A1/normal/lod0/Hull</nodefullVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.83865 -0.874219 -3.51766</min>
+    <max>1.83148 0.532938 3.56001</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+</hull.model>

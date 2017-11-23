@@ -1,0 +1,10 @@
+<turret_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.33477 -0.000000 -2.16118</min>
+    <max>1.34935 2.13037 1.30645</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/american/A84_M48A1/normal/lod0/Turret_01</nodefullVisual>
+</turret_01.model>

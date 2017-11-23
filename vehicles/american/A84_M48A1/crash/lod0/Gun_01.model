@@ -1,0 +1,10 @@
+<gun_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.51749 -0.402096 -1.29922</min>
+    <max>0.517489 0.37393 4.06562</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodelessVisual>vehicles/american/A84_M48A1/crash/lod0/Gun_01</nodelessVisual>
+</gun_01.model>

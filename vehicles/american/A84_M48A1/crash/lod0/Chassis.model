@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.83202 0.00438484 -3.26341</min>
+    <max>1.82474 1.48619 3.4339</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/american/A84_M48A1/crash/lod0/Chassis</nodefullVisual>
+</chassis.model>
